@@ -20,7 +20,7 @@ GREY COLOR: #343A40
   --color-grey-light: #ced4da;
   --color-grey-lightest: #f8f9fa;
   --color-testimonial-text: #e6fcf5;
-  --color-testimonial-author: #c3fae8;
+  --color-testimonial-author: #d7dbfd;
 }
 
 * {
@@ -183,7 +183,7 @@ img {
 }
 
 .testimonial-author {
-  color: #c3fae8;
+  color: var(--color-testimonial-author);
 }
 
 /* CHAIRS */
